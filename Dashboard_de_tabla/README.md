@@ -54,10 +54,13 @@ Durante la construcción del dashboard se tomó en cuenta:
 - Diseño visual enfocado en la claridad y sencillez utilizando principalmente, títulos con fondo negro, letras blancas y borde visual negro con redondeado 12
 - Se editó interaccioness manualmente 
     ![alt text](image-1.png)
+
     Se seleccionó el icono de filtro resaltado en la imagen anterior, y se repetió el proceso en los demás elementos.
+
     Resultado:
-    ![alt text](image-2.png)
     
+    ![alt text](image-2.png)
+
 ## Observaciones
 
 A partir del análisis del dashboard, se pueden destacar las siguientes observaciones:
@@ -69,6 +72,7 @@ A partir del análisis del dashboard, se pueden destacar las siguientes observac
 - La utilidad total es significativamente menor que las ventas, lo que indica la importancia de optimizar costos para mejorar la rentabilidad.
 
 - En el último año se observa un incremento de ventas en julio, octubre y diciembre, especialmente en los últimos dos.
+
 ![alt text](image-3.png)
 
 - Las ventas por país son similares, siendo México el país con menos ventas, podría representar una oportunidad de crecimiento. Por otro lado, Estados Unidos destaca como el país con mayor volumen de ventas, posicionándose como el principal mercado para la empresa. 
